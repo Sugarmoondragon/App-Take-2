@@ -15,8 +15,7 @@ struct ContentView: View {
             Image("Witch")
                 .resizable(resizingMode: .stretch)
                 .aspectRatio(contentMode: /*@START_MENU_TOKEN@*/.fill/*@END_MENU_TOKEN@*/)
-                
-                
+            Text("hello")
                 
         }
     }
